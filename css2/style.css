@@ -1,0 +1,37 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+.titulo{
+    height: 100px;
+    background-size: contain;
+    background-color: rgb(116, 116, 231);
+    text-align: center;
+}
+
+
+.caixa-texto p{
+    background-image: url("https://th.bing.com/th/id/R.848a44a9b39214c08b7e72d0cd563940?rik=ti%2bJi4Opq5733A&pid=ImgRaw&r=0");
+    background-size: contain;
+    background-position: mid;
+}
+
+.caixa-texto h2{
+    text-align: center;
+}
+
+.caixa-texto h4{
+    text-align: center;
+}
+
+.caixa-texto{
+    background-image: url("https://th.bing.com/th/id/R.4aab699a103a62f3ac220b8ab3a2b16d?rik=f8b4vynEweNcfA&riu=http%3a%2f%2fproikos.pe%2fwp-content%2fuploads%2f2015%2f09%2foficina-verde-escritorio-m--ltiple.jpg&ehk=jFVx7e%2f8%2fPqX26p05ANVe31kstIESSasDmGJk050Oh4%3d&risl=&pid=ImgRaw&r=0");
+    height: 400px;
+    background-position: middle;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
