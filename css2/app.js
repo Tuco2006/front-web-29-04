@@ -39,3 +39,7 @@ let numero = 5
 console.log(numero.toFixed(2)) 
 console.log(isNaN(numero)) 
 console,log(Math.floor(Math.random() * 11)) /* gera um número aleatório */
+
+let dataAtual = new Date()
+console.log(dataAtual) 
+console.log(dataAtual.getMonth())
